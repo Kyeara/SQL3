@@ -91,6 +91,6 @@ insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMe
 (12, 6, 8, false, '2024-04-10'),
 (13, 3, 7, false, '2024-06-25'),
 (14, 12, 15, false, '2024-08-28'),
-(15, 2, 15, true, '2023-11-27'),
-(16, 2, 7, true, '2023-09-22'),
+(15, 2, 15, false, '2023-11-27'),
+(16, 2, 7, false, '2023-09-22'),
 (17, 13, 6, true, '2024-02-20');
