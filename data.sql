@@ -38,14 +38,14 @@ insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values
 
 
 insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, IsAccepted, DateAdded) values 
-(1, 8, 14, true, '2024-2-15'),
+(1, 1, 14, true, '2024-2-15'),
 (2, 15, 3, true, '2024-6-4'),
 (3, 6, 1, true, '2024-7-17'),
 (4, 13, 3, false, '2023-8-12'),
 (5, 12, 2, true, '2024-1-28'),
 (6, 12, 7, false, '2024-9-24'),
 (7, 11, 16, true, '2024-12-23'),
-(8, 6, 14, true, '2024-9-27'),
+(8, 1, 14, true, '2024-9-27'),
 (9, 15, 16, false, '2024-10-29'),
 (10, 5, 7, true, '2024-5-28'),
 (11, 4, 7, true, '2024-11-27'),
