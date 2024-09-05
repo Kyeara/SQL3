@@ -1,5 +1,5 @@
 insert into Posts (PostID, PostDescription, PostedBy, IsPublic, IsOnlyForFriends, GroupID, DatePosted) values 
-(1, 'Caption 6', 4, false, true, 29, '2024-02-28'),
+(1, 'Caption 6', 4, false, true, 2, '2024-02-28'),
 (2, 'Caption 6', 2, false, false, 68, '2023-12-21'),
 (3, 'Caption 6', 1, true, false, 76, '2023-12-19'),
 (4, 'Caption 7', 6, false, true, 3, '2024-08-18'),
@@ -8,11 +8,11 @@ insert into Posts (PostID, PostDescription, PostedBy, IsPublic, IsOnlyForFriends
 (7, 'Caption 11', 5, false, true, 98, '2024-01-17'),
 (8, 'Caption 3', 10, true, false, 1, '2024-03-06'),
 (9, 'Caption 6', 5, false, false, 5, '2024-04-27'),
-(10, 'Caption 12', 1, false, false, 84, '2024-08-03'),
+(10, 'Caption 12', 1, false, false, 2, '2024-08-03'),
 (11, 'Caption 9', 7, false, true, 81, '2024-08-06'),
 (12, 'Caption 2', 1, false, true, 80, '2024-04-19'),
 (13, 'Caption 11', 14, true, true, 57, '2024-03-19'),
-(14, 'Caption 15', 6, false, true, 57, '2023-09-05'),
+(14, 'Caption 15', 6, false, true, 2, '2023-09-05'),
 (15, 'Caption 17', 15, false, false, 53, '2024-06-21'),
 (16, 'Caption 10', 15, false, false, 15, '2024-03-13'),
 (17, 'Caption 10', 16, true, true, 15, '2024-08-06');
