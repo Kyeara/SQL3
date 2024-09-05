@@ -78,7 +78,7 @@ insert into Users (UserID, Username, FirstName, LastName, DateOfBirth, Password,
 
 insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values 
 (1, 4, 17, true, '2024-02-17'),
-(2, 1, 16, true, '2024-05-23'),
+(2, 1, 2, true, '2024-05-23'),
 (3, 9, 15, false, '2023-09-28'),
 (4, 6, 14, false, '2023-11-01'),
 (5, 15, 4, true, '2024-02-21'),
